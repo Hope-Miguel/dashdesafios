@@ -24,6 +24,7 @@ export default function Home() {
             Save and see your changes instantly.
           </li>
         </ol>
+        <h1>ola vercel</h1>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
